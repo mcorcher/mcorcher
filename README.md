@@ -7,19 +7,14 @@
 
 
 <br>
-
-
-
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+## <picture><img src = "https://github.com/mcorcher/mcorcher/raw/main/assets/mdImages" width = 50px></picture> **About me**
 
 <br>
 
 - A passionate Self-taught software developer
 - Currently learning at 42 Madrid
-- Linkedin [link](www.linkedin.com/in/mateo-corchero)
+- It's the start of my journey, I'll give my best
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/)
 
 <br><br>
@@ -64,4 +59,17 @@
 <br>
 <br>
 
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="www.linkedin.com/in/mateo-corchero" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  mateo_corchero-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
 -----
