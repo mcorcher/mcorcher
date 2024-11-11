@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Mateo Corchero </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Muy+Buenas+Tardes..&hearts;++;Self-taught+Software+Developer,;42+Madrid+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs.."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Muy+Buenos+Días..&hearts;++;Self-taught+Software+Developer,;42+Madrid+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs.."></a>
 </p>
 
 
@@ -19,8 +19,8 @@
 
 - A passionate Self-taught software developer
 - Currently learning at 42 Madrid
-- Linkedin [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Linkedin [link](www.linkedin.com/in/mateo-corchero)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/)
 
 <br><br>
 
