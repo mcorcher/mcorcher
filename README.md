@@ -15,7 +15,7 @@
 - A passionate Self-taught software developer
 - Currently learning at 42 Madrid
 - It's the start of my journey, I'll give my best
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/mcorcher)
 
 <br><br>
 
