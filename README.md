@@ -8,7 +8,7 @@
 
 <br>
 	
-## <picture><img src = "https://github.com/mcorcher/mcorcher/raw/main/assets/mdImages" width = 50px></picture> **About me**
+## **About me**
 
 <br>
 
